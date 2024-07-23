@@ -1,8 +1,6 @@
 # Income_Qualification_Latin_America_Population_EDA_Project
 
-
 Problem statement:
-
 
 Many social programs have a hard time ensuring that the right people are given enough aid. It’s tricky when a program focuses on the poorest segment of the population. This segment of the population can’t provide the necessary income and expense records to prove that they qualify. 
 
@@ -13,19 +11,13 @@ While this is an improvement, accuracy remains a problem as the region’s popul
 The Inter-American Development Bank (IDB) believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance. 
 
 
-
 Objective:
-
 
 Identify the level of income qualification needed for the families in Latin America. 
 
 
-
-
-
 Eng Shawn's contribution to the ML Project:
-
-
+I was the Key Person responsible to do the EDA, Data Visualizations which were created using Matplotlib & Seaborn libraries to understand the Publicly Available Income Qualification for Latin America Population dataset while assisting my team in other areas that required more work.
 
 
 ![image](https://github.com/user-attachments/assets/8a6361d3-e784-449e-ac81-ee30fd59053d)
